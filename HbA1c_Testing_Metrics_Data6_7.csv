@@ -1,0 +1,13 @@
+Target,RMSE,MAE,MAPE (%)
+hba1c_august_2024,0.2,0.09,1.18
+hba1c_september_2024,0.25,0.11,1.46
+hba1c_october_2024,0.3,0.13,1.66
+hba1c_november_2024,0.29,0.14,1.83
+hba1c_december_2024,0.31,0.15,1.96
+hba1c_january_2025,0.31,0.17,2.09
+hba1c_february_2025,0.32,0.17,2.1
+hba1c_march_2025,0.28,0.16,2.05
+hba1c_april_2025,0.27,0.15,1.99
+hba1c_may_2025,0.26,0.15,1.94
+hba1c_june_2025,0.22,0.13,1.83
+hba1c_july_2025,0.16,0.12,1.67
